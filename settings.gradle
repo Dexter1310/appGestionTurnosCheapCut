@@ -1,0 +1,2 @@
+rootProject.name='gestionCitasCheap_cut'
+include ':app'
